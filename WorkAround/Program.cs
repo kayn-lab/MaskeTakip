@@ -6,9 +6,9 @@ Console.WriteLine("lÜTFEN BEKLEYİN");
 Person person = new Person ();
 
 person.FirstName = "İbrahim";
-person.LastName = "Delibaş"; ;
-person.NatioanalIdentity = 13484325156;
-person.DateOfBirthYear = 2006;
+person.LastName = ",,,,,,,,"; ;
+person.NatioanalIdentity = 111111111111;
+person.DateOfBirthYear = 2222;
 
 
 PttManager pttManager = new PttManager(new PersonManager());
